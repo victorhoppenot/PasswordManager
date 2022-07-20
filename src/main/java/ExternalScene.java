@@ -15,7 +15,7 @@ public class ExternalScene extends VBox {
         internal.setPadding(new Insets(5));
         getChildren().add(internal);
 
-        Label title = new Label("USB Password Manager");
+        Label title = new Label("Password Manager");
         title.getStyleClass().add("title");
         internal.getChildren().add(title);
 

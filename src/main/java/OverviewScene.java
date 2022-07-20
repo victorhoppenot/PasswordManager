@@ -68,7 +68,7 @@ public class OverviewScene extends VBox {
         tb.getChildren().add(miniBtn);
 
 
-        Label title = new Label("USB Password Manager");
+        Label title = new Label("Password Manager");
         title.getStyleClass().add("title");
         internal.getChildren().add(title);
 

@@ -1,0 +1,41 @@
+.infobox {
+    -fx-background-color: white;
+    -fx-background-radius: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: Black;
+}
+
+.service {
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+.identifier {
+    -fx-font-size: 12;
+    -fx-font-style:italic;
+    -fx-text-fill: black;
+}
+
+.desc {
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+}
+
+.edit {
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-border-color: transparent;
+    -fx-background-color: Gray;
+    -fx-background-radius: 0;
+}
+
+.edit:hover {
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+    -fx-text-fill: Silver;
+    -fx-border-color: transparent;
+    -fx-background-color: Gray;
+    -fx-background-radius: 0;
+}

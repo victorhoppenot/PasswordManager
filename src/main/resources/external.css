@@ -1,0 +1,35 @@
+.title {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.input_label {
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+}
+
+.input {
+    -fx-font-size: 13;
+    -fx-background-radius: 0;
+    -fx-border-color: Black;
+    -fx-background-color: White;
+}
+
+
+.submit {
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-border-color: transparent;
+    -fx-background-color: Gray;
+    -fx-background-radius: 0;
+}
+
+.submit:hover {
+     -fx-font-size: 13;
+     -fx-font-weight: bold;
+     -fx-text-fill: Silver;
+     -fx-border-color: transparent;
+     -fx-background-color: Gray;
+     -fx-background-radius: 0;
+ }

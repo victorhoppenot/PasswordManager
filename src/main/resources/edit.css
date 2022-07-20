@@ -1,0 +1,14 @@
+.title {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+.input_label {
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+}
+.input {
+    -fx-font-size: 13;
+    -fx-background-radius: 0;
+    -fx-border-color: Black;
+    -fx-background-color: White;
+}

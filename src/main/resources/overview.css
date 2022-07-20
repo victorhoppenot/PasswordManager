@@ -1,0 +1,23 @@
+.title {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.scroll_pane {
+    -fx-border-color: black;
+    -fx-background: Silver;
+}
+
+.search_field {
+    -fx-font-size: 13;
+    -fx-background-radius: 0;
+    -fx-border-color: Black;
+    -fx-background-color: White;
+}
+.search_combo {
+    -fx-font-size: 13;
+    -fx-background-radius: 0;
+    -fx-border-color: Black;
+    -fx-background-color: White;
+
+}

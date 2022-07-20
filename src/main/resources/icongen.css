@@ -1,0 +1,18 @@
+.icon {
+    -fx-font-weight: bold;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 2;
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(gaussian, black, 1, 5, 1, 1)
+}
+
+.icon:hover {
+    -fx-text-fill: Silver;
+}
+
+.icon:pressed {
+    -fx-text-fill: white;
+    -fx-effect: None;
+}

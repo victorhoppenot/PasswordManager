@@ -1,0 +1,31 @@
+.topbar {
+    -fx-background-color: Gray;
+}
+
+.exit {
+    -fx-font-weight: bold;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(gaussian, black, 1, 5, 2, 2)
+}
+.exit:hover {
+    -fx-text-fill: Silver;
+    -fx-effect: none;
+}
+
+.mini {
+    -fx-font-weight: bold;
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(gaussian, black, 1, 5, 2, 2)
+}
+.mini:hover {
+    -fx-text-fill: Silver;
+    -fx-effect: none;
+}
